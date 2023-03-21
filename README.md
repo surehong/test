@@ -1,3 +1,4 @@
 # test
-for test/n
+for test
+
 C语言实验
